@@ -1,2 +1,2 @@
 # dotfiles
-confs
+conf files backed up
